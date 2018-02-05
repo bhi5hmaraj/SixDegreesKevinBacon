@@ -7,3 +7,8 @@ The main idea is that many of the social networks have a property called [small 
 
 The IMDb graph is a bipartite graph where the 2 sets of vertices are actors and movies. So any 2 actors who acted in the same movie are directly related to each other.
 
+## Introduction
+![Introduction](images/output-01.png?raw=true "Introduction")
+
+## Visualizing using Gephi
+![](images/output-04.png?raw=true)
