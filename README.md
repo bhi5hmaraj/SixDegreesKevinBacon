@@ -1,4 +1,4 @@
-# SixDegreesKevinBacon
+# Six Degrees of separation and Bacon number in actor graphs
 This was an assignment that I did quite some time ago (Nov 2015) for the course Introduction to science of Networks by [Sashi Prabh](https://sites.google.com/a/snu.edu.in/shashi-prabh/home) .
 
 The idea was inspired from a similar assignment in [Princeton](http://www.cs.princeton.edu/courses/archive/spring03/cs226/assignments/bacon.html). The code for parsing and graph algrithms were written in Java . The IMDb data was also taken from their website.
