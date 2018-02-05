@@ -1,0 +1,20 @@
+Movie :movie3
+Actors:
+[actor1, actor5]
+
+Movie :movie2
+Actors:
+[actor2, actor4, actor3]
+
+Movie :movie1
+Actors:
+[actor1, actor2, actor3]
+
+Movie :movie5
+Actors:
+[actor7, actor1]
+
+Movie :movie4
+Actors:
+[actor6, actor7]
+
